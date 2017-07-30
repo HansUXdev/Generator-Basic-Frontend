@@ -38,8 +38,7 @@ module.exports = class extends Generator {
     // Index
     this.fs.copy(
       this.templatePath('index.html'),
-      this.destinationPath('index.html'),
-      { title:  this.props.name}
+      this.destinationPath('index.html')
     );
 
     // JS
