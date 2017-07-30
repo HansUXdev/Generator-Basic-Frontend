@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server --config webpack.config.js --port 3000 --hot --inline",
+    "bundle": "./node_modules/.bin/webpack --config webpack.config.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "*",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "css-loader": "*",
+    "node-sass": "*",
+    "postcss-loader": "*",
+    "sass-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  }
+}

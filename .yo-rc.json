@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Siddharth Nand",
+      "authorEmail": "snand233@gmail.com",
+      "authorUrl": "https://github.com/sidnand"
+    }
+  }
+}
