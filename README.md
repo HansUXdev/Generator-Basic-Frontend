@@ -1,2 +1,3 @@
-# Frontend
-A Yeoman generator that adds SASS / SCSS, ES6 and Webpack to your front end projects.
+# Generator-Basic-Frontend
+Scaffolds out a boilerplate for front-end development with Webpack, Ba
+bel and Sass.
